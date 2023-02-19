@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: block;
+    background-attachment:fixed;
+    box-sizing: border-box;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+
+h1{
+    margin: 15px;
+    padding: 5px;
+    width: 93%;
+    height: 10%;
+    color: rgb(187, 255, 1);
+    background-color: rgb(57, 57, 97);
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: transparent green;
+}
+
+h1:hover{
+    background-color: aqua;
+    color: red;
+    cursor: pointer;
+}
+
+ol{
+    margin: 40px;
+    padding: 20px;
+    background: fixed;
+    text-align: justify;
+    column-width: 100px;
+    column-gap: 100px;
+    column-count: 5;
+    letter-spacing: 1px;
+    line-height: 30px ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 3, 3);
+}
+
+li{
+    margin: 5px;
+    padding: 0;
+    width: 250px;
+    border: 5px;
+    box-sizing: border-box;
+    box-shadow: inset;
+}
+
+b{
+    color: blue;
+    background: fixed;
+}
+
+b:hover{
+    color: white;
+    background-color:red;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    margin: 10px;
+    border-radius: 5px;
+    position: fixed;
+    top: 20px;
+    right: 5px;
+    border: 1px solid black;
+}
+
+img:hover{
+    height: 50px;
+    width: 50px;
+    opacity: 0.7;
+    cursor: pointer;
+    background-color: red;
+}

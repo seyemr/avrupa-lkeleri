@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avrupa</title>
+    <link rel="stylesheet" href="avrupa.css">
+    
+
+</head>
+<body onload="alert( 'MERHABA! ' );"></body><body background ="avr.webp" >
+  <div class="dinamik">  <a href="https://udemig.com/" target="_blank">  <img src="udemig.png"></a> </div> <br>
+    <h1 > AVRUPA ÜLKELERİ</h1> 
+<ol><li><a href="https://tr.wikipedia.org/wiki/Almanya" target="_blank"> <b> Almanya   </b></a></p> 
+
+<li><a href="https://tr.wikipedia.org/wiki/Avusturya"target="_blank"> <b> Avusturya    </b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Belçika"target="_blank">  <b> Belçika</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Britanya"target="_blank"> <b> Büyük Britanya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Fransa"target="_blank"> <b> Fransa</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Hollanda" target="_blank"><b> Hollanda</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/İrlanda"target="_blank"> <b> İrlanda</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/İsviçre"target="_blank"> <b> İsviçre</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Lihtenştayn"target="_blank"> <b> Lihtenştayn</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Lüksemburg"target="_blank"> <b> Lüksemburg</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Monako" target="_blank"> <b> Monako</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Belarus" target="_blank"> <b> Belarus</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Bulgaristan" target="_blank">  <b> Bulgaristan</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Çekya" target="_blank"> <b> Çekya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Macaristan"target="_blank">  <b> Macaristan</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Moldova"target="_blank"><b> Moldova</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Polonya"target="_blank">  <b> Polonya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Romanya" target="_blank"> <b> Romanya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Slovakya" target="_blank"> <b> Slovakya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Ukrayna" target="_blank"> <b> Ukrayna</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Danimarka" target="_blank"> <b> Danimarka</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Estonya" target="_blank"> <b> Estonya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Finlandiya" target="_blank"> <b> Finlandiya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/İsveç" target="_blank"> <b> İsveç</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/İzlanda"target="_blank">  <b> İzlanda</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Letonya"target="_blank"> <b> Letonya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Litvanya" target="_blank"> <b> Litvanya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Norveç" target="_blank"> <b> Norveç</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Andorra"target="_blank">  <b> Andorra</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Arnavutluk" target="_blank"> <b> Arnavutluk</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Bosna-Hersek"target="_blank">  <b> Bosna-Hersek</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Hırvatistan" target="_blank"> <b> Hırvatistan</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/İspanya" target="_blank"> <b> İspanya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/İtalya"target="_blank">  <b> İtalya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Karadağ" target="_blank"> <b> Karadağ</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Makedonya" target="_blank"> <b> Makedonya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Malta"target="_blank">  <b> Malta</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Portekiz"target="_blank"> <b> Portekiz</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/San_Marino" target="_blank"> <b> San Marino</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Sırbistan" target="_blank"> <b> Sırbistan</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Slovenya" target="_blank"> <b> Slovenya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Türkiye" target="_blank"> <b> Türkiye</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Vatikan" target="_blank">  <b> Vatikan</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Yunanistan" target="_blank"> <b> Yunanistan</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Abhazya" target="_blank"> <b> Abhazya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Karabağ" target="_blank"> <b> Dağlık Karabağ</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Güney_Osetya"target="_blank">  <b> Güney Osetya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Kosova" target="_blank"> <b>Kosova</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Kuzey_Kıbrıs_Türk_Cumhuriyeti"target="_blank">  <b> K.K.T.C.</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Transdinyester" target="_blank"> <b>Transdinyester</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/A%C4%9Frotur_ve_Dikelya" target="_blank"> <b>Ağrotur-Dikelya</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Cebelitarık" target="_blank"> <b>Cebelitarık</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Faroe_Adaları" target="_blank"> <b>Faroe Adaları</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Guernsey"target="_blank"> <b>Guernsey</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Jan_Mayen" target="_blank"> <b>Jan Mayen</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Jersey" target="_blank"> <b>Jersey</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Man_Adası"  target="_blank"><b>Man Adası</b></a></p>
+
+<li><a href="https://tr.wikipedia.org/wiki/Svalbard"target="_blank">  <b>Svalbard</b></a></p></li></ol> <br>
+
+<span></span>
+</body>
+</html>
